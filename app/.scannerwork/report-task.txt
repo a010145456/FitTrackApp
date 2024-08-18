@@ -1,0 +1,6 @@
+projectKey=FitTrackApp
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=FitTrackApp
+ceTaskId=b87f6485-9ace-40cf-bacc-616e382e12e3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b87f6485-9ace-40cf-bacc-616e382e12e3
